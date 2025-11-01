@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+networkx
+matplotlib
+automata-lib
